@@ -1,2 +1,2 @@
-FROM registry.k8s.io/autoscaling/vpa-admission-controller:0.11
+FROM registry.k8s.io/autoscaling/vpa-admission-controller:v0.11.0
 MAINTAINER bluelvren
